@@ -1,37 +1,65 @@
-# Factorial Program
+D1 — Project title and one-line description
 
-A simple beginner Python program that calculates
-the factorial of the fixed value 5 using a loop.
+# Personal Portfolio
+A responsive portfolio website showcasing my profile, skills, projects and professional links.
 
-## Program
+D2 — Live URL
+## Live Portfolio
 
-The repository contains:
+https://your-name.vercel.app
+Keep it near the top.
 
-- `factorial.py` — calculates the factorial of 5.
+D3 — At least two screenshots
 
-## How It Works
+For a portfolio, use:
+* Screenshot 1: Hero/About section
+* Screenshot 2: Skills + Projects section
+The guide asks for screenshots of the actual working project. 
 
-The variable `fact` starts at 1.
+D4 — Tech stack
+Example:
+## Tech Stack
 
-A `for` loop runs from 1 through 5 and repeatedly
-multiplies the current value of `fact`.
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- Vercel
+Only list JavaScript if it is actually used.
 
-## Requirements
+D5 — Three things the portfolio does
+For example:
+## Features
 
-- Python 3.x
+- Introduces my profile and background
+- Displays my skills and projects
+- Provides direct links to my GitHub and professional profiles
 
-No external libraries are required.
+D6 — How to run locally
+## Run Locally
 
-## Usage
+1. Clone the repository.
+2. Open the project folder.
+3. Open `index.html` in a browser.
 
-Run:
+D7 — Honest limitations
+For a personal portfolio, good limitations could be:
+## Current Limitations
 
-python factorial.py
+- The portfolio is a static website.
+- Project information must be updated manually.
+- It does not currently include a backend or contact form submission service.
 
-## Output
+D8 — Audit every claim
+If README says:
+Responsive design
+students should actually check it on mobile.
 
-120
+If README says:
+Dark mode
+the dark-mode button should work.
 
-## Example Calculation
-
-5 × 4 × 3 × 2 × 1 = 120
+If README says:
+Three projects
+those three projects should actually be present.
